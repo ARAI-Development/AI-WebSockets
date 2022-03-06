@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\bin\Debug\netcoreapp3.1\The ARAI Project.exe
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\bin\Debug\netcoreapp3.1\The ARAI Project.deps.json
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\bin\Debug\netcoreapp3.1\The ARAI Project.runtimeconfig.json
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\bin\Debug\netcoreapp3.1\The ARAI Project.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\bin\Debug\netcoreapp3.1\The ARAI Project.dll
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\bin\Debug\netcoreapp3.1\The ARAI Project.pdb
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\bin\Debug\netcoreapp3.1\websocket-sharp.dll
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.AssemblyInfo.cs
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.csproj.CopyComplete
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.dll
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.pdb
+C:\Users\Asus\Desktop\The ARAI Project\The ARAI Project\The ARAI Project\obj\Debug\netcoreapp3.1\The ARAI Project.genruntimeconfig.cache

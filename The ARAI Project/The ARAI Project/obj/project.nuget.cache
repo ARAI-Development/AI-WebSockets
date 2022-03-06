@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZpH2WCnMIfHVhkIVRNrZNaK5Yx/BMWz6u2VJDYX7rZ/XK4k+GtBAdL4yPSVq9reEHCMS+f72PjQMPq/yHOc4fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\The ARAI Project\\The ARAI Project\\The ARAI Project\\The ARAI Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
